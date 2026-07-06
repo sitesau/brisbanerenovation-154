@@ -1,0 +1,17 @@
+{
+  "wheel_id": 108,
+  "slug": "brisbanerenovation-154",
+  "project": "kitchen-renovation-brisbane-b-154",
+  "parent_t1_ref": "brisbanerenovation-002",
+  "node_role": "buffer",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "kitchen renovation brisbane",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovation-brisbane-b-154/index.html",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/kitchen-renovation-brisbane/",
+      "anchor": "kitchen renovation brisbane",
+      "rel": "follow"
+    }
+  ]
+}
